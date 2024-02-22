@@ -1,8 +1,13 @@
 # 1.简介
 
 系统：后台管理系统
-github链接：https://github.com/wanwei897/manage-system
+
+github地址：https://github.com/wanwei897/manage-system 
+
+原系统地址：https://github.com/lin-xin/vue-manage-system
+
 难度：中
+
 技术栈：vue3 + ts + vite + pinia + element-plus
 
 # 2.项目依赖
